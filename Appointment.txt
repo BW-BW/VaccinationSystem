@@ -1,0 +1,6 @@
+Brian Widjaja,Axiata,Sinnovac,19 Nov 2021,15
+Kevin Bok,Damansara,Pfizer,23 Nov 2021,8
+Vincent Owen,Damansara,Sinnovac,09 Dec 2021,8
+Kenny Diego,Axiata,Sinnovac,01 Dec 2021,8
+Star Eko,Axiata,Sinnovac,01 Dec 2021,8
+Richard Senjaya,Damansara,Pfizer,03 Dec 2021,14

@@ -1,0 +1,6 @@
+Kinrara,Pfizer,30
+Axiata,Pfizer,12
+Kinrara,Sinnovac,79
+Damansara,Sinnovac,111
+Damansara,Pfizer,29
+Damansara,AstraZeneca,123
